@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pconqueso
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently learning c++

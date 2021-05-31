@@ -1,0 +1,27 @@
+#header-img{
+ height: 200px;
+}
+header {
+  display:flex;
+  align-self:float;
+}
+#nav-bar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 90%;
+  background-color:#b0cccc;
+}
+@media (max-width: 600px) {
+  header {
+    flex-wrap: wrap;
+  }
+  .img-hr, .urotitle, .videopt, .formpt {
+    display:grid;
+    justify-items:center;
+  }
+}
+  .img-hr, .urotitle, .videopt, .formpt {
+    display:grid;
+    justify-items:center;
+  }

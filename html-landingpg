@@ -1,0 +1,28 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!DOCTYPE html>
+
+<html>
+    <header class="header" id="header">
+        <div class="img-hr">
+            <img id="header-img" 
+            src="https://thumbs.dreamstime.com/b/emblema-del-grabado-de-uroboros-monstruo-esot%C3%A9rico-mitol%C3%B3gico-ouroboros-dibujado-en-el-estilo-aislado-fondo-blanco-serpiente-148296747.jpg" 
+            alt="Uroboros">
+        </div>
+        <div class="urotitle">
+            <h1 id="title">Uroboros heroe o villano</h1>
+        </div>
+            <nav id="nav-bar">
+                <ul>
+                    <li ><a href="#" class="nav-link" >Inicio</a></li>
+                    <li ><a href="#" class="nav-link" >Medio</a></li>
+                    <li ><a href="#" class="nav-link" >Fin</a></li>
+                </ul>
+            </nav>
+    </header>
+        <div class="vid">
+            <video src="https://www.youtube.com/watch?v=ihisGJc2S0Y" autoplay poster="posterimage.jpg">
+                Tu navegador no admite el elemento <code>video</code>.
+              </video>
+        </div>
+</html>
